@@ -1,3 +1,8 @@
 https://www.kaggle.com/
 
 sirj
+
+Sentimental Analysis - https://textblob.readthedocs.io/en/dev/
+https://dialogflow.com/
+https://www.captionbot.ai/
+
