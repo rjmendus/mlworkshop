@@ -1,4 +1,4 @@
-#iris ml with accuracy check
+#using logistics regression
 
 from sklearn.linear_model import LogisticRegression
 from sklearn.datasets import load_iris
